@@ -1,10 +1,11 @@
 <h1 align="center"><b>Hey! I am Ian Vergel Cañete</b></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cianvergelll&label=Profile%20views&color=0e75b6&style=flat" alt="cianvergelll" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cianvergelll" alt="cianvergelll" /></a> </p>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cianvergelll&theme=github-light" width="100%" />
+</p>
 
-- 🌱 I’m currently learning **Angular**
-
+- 🌱 I’m currently learning **Svelte**
 - 📫 How to reach me **cianvergelll@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -30,11 +31,11 @@
 <a href="https://cloudinary.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="cloudinary" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">GitHub Stats & Activity:</h3>
+<h3 align="left">GitHub Activity:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cianvergelll&show_icons=true&locale=en" alt="cianvergelll's stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cianvergelll&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cianvergelll&theme=tokyonight" alt="cianvergelll streak" />
 </p>
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cianvergelll&theme=default" alt="cianvergelll's GitHub streak" height="150" />
+  <img src="https://github-readme-stats-six-rebel.vercel.app/api?username=cianvergelll&show_icons=true&theme=tokyonight" alt="cianvergelll stats" />
 </p>
